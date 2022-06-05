@@ -5,7 +5,7 @@ comparison, and object equality check.
 
 `Purpose:` Course Project at [IIITD](https://www.iiitd.ac.in/)
 
-`Instructions:` (Credits- [Advanced Programming](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE201)
+`Instructions:` Credits- [Advanced Programming](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE201)
 
 # Mafia-GamePlay
 
